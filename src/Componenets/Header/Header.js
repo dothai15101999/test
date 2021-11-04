@@ -13,7 +13,7 @@ const Header = () => {
                 <a className="header__link" href="#">login</a>
                 <a className="header__link" href="#">apply for free use</a>
             </nav>
-            <div className="header__menu-icon" href="#">menu</div>
+            <div className="header__menu-icon" href="#"><i class="fas fa-bars"></i></div>
         </header>
     )
 }
